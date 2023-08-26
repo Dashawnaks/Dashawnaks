@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dashawnaks
+- 👀 I’m interested in code, anime, music, skincare and cooking!
+- 🌱 I’m currently learning Web Development at Thinkful. 
+- 💞️ I’m looking to collaborate on amazing projects in the future!
+- I am looking forward to learning more about code and to pursue a career in tech!
